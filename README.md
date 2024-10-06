@@ -26,7 +26,7 @@
 6. 전현상, **"SageMaker Canvas"**, AWS Builders Korea & AI/ML Immersion Day, 2023.[Link](https://aiml-immersionday-kr.splashthat.com/)
 7. 전현상, **"Serverless Image Handler"**, Solution Days, AWS Builders Korea, 2023.[Link](https://aws-startup-lofts.com/apj/external-event/3b338a87-43c0-41a1-a983-d57894d7da30)
 8. 전현상, **"고성능 검색 증강 생성(RAG) 구축하기 위한 실용적 기술"**, Data & AI Roadshow, AWS Korea, 2024.[Link](https://pages.awscloud.com/aws-kr-data-ai-roadshow-2024.html)
-9. 전현상, **"AWS Serverless"**, AWS Builders Korea, 2022.[Link]()
+9. 전현상, **"AWS Serverless AWS 서버리스로 서버 없이 간단한 웹 애플리케이션 만들기"**, AWS Builders Korea, 2022.[Link](https://kr-resources.awscloud.com/aws-builders-korea-level100/aug22-aws-serverless-services?trk=sl_eventpg_krbuilders&trkcampaign=aws-builders-kr)
 10. 전현상 et al, **"생성형 AI로 세상보기"**, 청음복지관, AWS Korea, 2023.[Link](http://m.ignnews.co.kr/news/articleView.html?idxno=13535)
 
 

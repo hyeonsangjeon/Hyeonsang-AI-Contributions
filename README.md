@@ -60,5 +60,5 @@
 ## 🌟 Community and Social Contributions
 
 1. 전현상 et al, **"A World Heard with Eyes: Drawing Hearts with GenAI"**, 청음복지센터 for the Hearing Impaired, AWS Korea, 2023. [Link](http://m.ignnews.co.kr/news/articleView.html?idxno=13535)
-2. 전현상, “AI Workshop for Elementary School-Aged Children of Amazon Employees”, AWS Coding School Day, AWS, 2023. Link (https://www.linkedin.com/pulse/things-sometimes-more-important-than-technology-%ED%98%84%EC%83%81-%EC%A0%84/)
-3. 전현상, “What is Artificial Intelligence? The Role of an AI Engineer”, Future Planning Education Lecture at Eonbuk Elementary School, 2022.
+2. 전현상, “AI Workshop for Elementary School-Aged Children of Amazon Employees”, AWS Coding School Day, AWS, 2023. [Link](https://www.linkedin.com/pulse/things-sometimes-more-important-than-technology-%ED%98%84%EC%83%81-%EC%A0%84/)
+3. 전현상, “What is Artificial Intelligence? The Role of an AI Engineer”, Future Planning Education Lecture at Eonbuk Elementary School, 2022. [Link](https://www.linkedin.com/in/hyeonsangjeon0310/details/experience/1901293360/multiple-media-viewer?profileId=ACoAACfyScsBMig0bzzGRaCZq2axagoBNOsaOCE&treasuryMediaId=1728405389270&type=IMAGE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list_details_modal%3BsdKfT9ZoQgaxxncyi1HKYg%3D%3D)

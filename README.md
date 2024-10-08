@@ -59,7 +59,7 @@
   *Deliver Results for the AWS 2023 Summit Conference, AI Basketball booth*, AWS, May 15, 2023
 - **Digital Tech Center Recognition**  
   *Collaboration Champion for Library Development and Platform Integration*, SK holdings C&C, Apr. 12, 2021
-- **Champion in Data Analysis and NLP Processing (Competition)**  
+- **Competition Champion in Data Analysis and NLP Processing**  
   *Stock Closing Price Classification and Prediction Modeling Using Transformers BERT on Stock News Articles*, SK holdings C&C, Aug. 06, 2020
 - **AWS Certified Machine Learning – Specialty**, Dec. 2022
 - **AWS Certified Solutions Architect – Associate**, Dec 2021

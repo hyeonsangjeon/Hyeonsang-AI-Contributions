@@ -40,9 +40,17 @@
 5.  **Transcribe 성능평가와 한국어 자동 음성 인식 평가를 위한 유사도 측정 함수 패키지**[Link](https://github.com/hyeonsangjeon/computing-Korean-STT-error-rates)
 6.  **SageMaker Coding School Day를 위한 Text-to-Image 패키지**[Link](https://github.com/hyeonsangjeon/AIsketcher)
 
+## 🌟 Community and Social Contributions
+
+1. 전현상 et al, **"A World Heard with Eyes: Drawing Hearts with GenAI"**, 청음복지센터 for the **Hearing Impaired**, AWS Korea, 2023. [Link](http://m.ignnews.co.kr/news/articleView.html?idxno=13535)
+2. 전현상, **“AI Workshop for Elementary School-Aged Children of Amazon Employees”**, AWS **Coding School** Day, AWS, 2023. [Link](https://www.linkedin.com/pulse/things-sometimes-more-important-than-technology-%ED%98%84%EC%83%81-%EC%A0%84/)
+3. 전현상, **“What is Artificial Intelligence? The Role of an AI Engineer”**, Future Planning Education Lecture at **Eonbuk Elementary School**, 2022. [Link](https://www.linkedin.com/in/hyeonsangjeon0310/details/experience/1901293360/multiple-media-viewer?profileId=ACoAACfyScsBMig0bzzGRaCZq2axagoBNOsaOCE&treasuryMediaId=1728405389270&type=IMAGE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list_details_modal%3BsdKfT9ZoQgaxxncyi1HKYg%3D%3D)
+
 
 ## 🏅 Recent Certificates and Awards
 
+- **Amazon Awesome Builder Award**  
+  Recognized for **developing and swiftly delivering automated AI model serving API MVP asset code** to customers with on-premises models, and for **contributing** this code to the **official aws-samples** GitHub repository, AWS, Sept. 20, 2024
 - **Amazon Awesome Builder Award**  
   *Listening with Eyes: A Journey into Generative AI for Image Coding School*, AWS, Aug. 26, 2023
 - **Amazon Awesome Builder Award**  
@@ -53,12 +61,6 @@
   *Collaboration Champion for Library Development and Platform Integration*, SK holdings C&C, Apr. 12, 2021
 - **Champion in Data Analysis and NLP Processing (Competition)**  
   *Stock Closing Price Classification and Prediction Modeling Using Transformers BERT on Stock News Articles*, SK holdings C&C, Aug. 06, 2020
-
 - **AWS Certified Machine Learning – Specialty**, Dec. 2022
 - **AWS Certified Solutions Architect – Associate**, Dec 2021
 
-## 🌟 Community and Social Contributions
-
-1. 전현상 et al, **"A World Heard with Eyes: Drawing Hearts with GenAI"**, 청음복지센터 for the Hearing Impaired, AWS Korea, 2023. [Link](http://m.ignnews.co.kr/news/articleView.html?idxno=13535)
-2. 전현상, “AI Workshop for Elementary School-Aged Children of Amazon Employees”, AWS Coding School Day, AWS, 2023. [Link](https://www.linkedin.com/pulse/things-sometimes-more-important-than-technology-%ED%98%84%EC%83%81-%EC%A0%84/)
-3. 전현상, “What is Artificial Intelligence? The Role of an AI Engineer”, Future Planning Education Lecture at Eonbuk Elementary School, 2022. [Link](https://www.linkedin.com/in/hyeonsangjeon0310/details/experience/1901293360/multiple-media-viewer?profileId=ACoAACfyScsBMig0bzzGRaCZq2axagoBNOsaOCE&treasuryMediaId=1728405389270&type=IMAGE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list_details_modal%3BsdKfT9ZoQgaxxncyi1HKYg%3D%3D)

@@ -14,11 +14,11 @@
 8. 전현상, “현업에서 어텐션 기반 트랜스포머의 적용과 Generative AI의 동향”, NRIC, *Meric 웨비나, 과학기술정보통신부*, 2023.[Link](https://www.nric.or.kr/onlineSeminar/onlineSeminarVodView.do?currentPage=1&onlineSeminaInfoId=221&centerCd=)
 9. 전현상, “클라우드 환경에서 생성형 AI의 미래 전략과 AWS 생성형 AI 기술과 사례”, *2024 클라우드 컨퍼런스⑨*, ITDAILY, 2024.[Link](https://www.youtube.com/watch?v=Fy9SRt-q1wY)
 10. 전현상, “딥러닝 플렛폼에서의 Hyperparameter Optimization 기반 AutoDL 기술 적용사례”, *AI Innovation 2020*, 전자신문, 2020.[Link](https://youtu.be/QMorERxb1YY?si=iN8opTIjZPc2tTzq)
- 
+
 
 ## 🎤 Recent AWS Public Speaking Engagements
 
-1. 전현상, 곽영화, **"데이터 인사이트의 혁신: Amazon AI 서비스 활용법"**, *생성형 AI 기반 기술 혁신 세션*, AWS Summit Seoul, 2024.[Link](https://youtu.be/99G_qL6bojA?si=kT-_339nKUbnOxAL&t=479)
+1. 전현상, 곽영화, **"데이터 인사이트의 혁신: Amazon AI 서비스 활용법"**, *생성형 AI 기반 기술 혁신 세션*, AWS Summit Seoul Conference, 2024.[Link](https://youtu.be/99G_qL6bojA?si=kT-_339nKUbnOxAL&t=479)
 2. 전현상 **"AWS Generative AI 서비스의 활용방법과 데모"**, *금융사를 위한 AWS Generative AI Day*, 2023.[Link](https://d1.eventservice.kr/2023/aws/00/0808_gen_ai/0808_AWS_gen_ai.html)
 3. 전현상  **"PEFT & LLM Serving with QLoRA"**, AWS Tech-Summit 2023.[Link]()
 4. 전현상 et al, **"Retrieval-Augmented Generation"**, AWS Tech-Summit 2023.[Link]()
@@ -27,7 +27,8 @@
 7. 전현상, **"Serverless Image Handler"**, Solution Days, AWS Builders Korea, 2023.[Link](https://aws-startup-lofts.com/apj/external-event/3b338a87-43c0-41a1-a983-d57894d7da30)
 8. 전현상, **"고성능 검색 증강 생성(RAG) 구축하기 위한 실용적 기술"**, Data & AI Roadshow, AWS Korea, 2024.[Link](https://pages.awscloud.com/aws-kr-data-ai-roadshow-2024.html)
 9. 전현상, **"AWS Serverless AWS 서버리스로 서버 없이 간단한 웹 애플리케이션 만들기"**, AWS Builders Korea, 2022.[Link](https://kr-resources.awscloud.com/aws-builders-korea-level100/aug22-aws-serverless-services?trk=sl_eventpg_krbuilders&trkcampaign=aws-builders-kr)
-10. 전현상 et al, **"생성형 AI로 세상보기"**, 청음복지관, AWS Korea, 2023.[Link](http://m.ignnews.co.kr/news/articleView.html?idxno=13535)
+10. 전현상 et al, “AI Basketball Booth Operation Member”, AWS Summit Korea Conference 2023. [Link](https://www.linkedin.com/in/hyeonsangjeon0310/details/experience/1901293360/multiple-media-viewer?profileId=ACoAACfyScsBMig0bzzGRaCZq2axagoBNOsaOCE&treasuryMediaId=1728405389268&type=IMAGE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list_details_modal%3BGQSWbzlxSqKD9diszIxofg%3D%3D)
+
 
 
 ## 💻 AWS GitHub Contribution
@@ -55,3 +56,9 @@
 
 - **AWS Certified Machine Learning – Specialty**, Dec. 2022
 - **AWS Certified Solutions Architect – Associate**, Dec 2021
+
+## 🌟 Community and Social Contributions
+
+1. 전현상 et al, **"A World Heard with Eyes: Drawing Hearts with GenAI"**, 청음복지센터 for the Hearing Impaired, AWS Korea, 2023. [Link](http://m.ignnews.co.kr/news/articleView.html?idxno=13535)
+2. 전현상, “AI Workshop for Elementary School-Aged Children of Amazon Employees”, AWS Coding School Day, AWS, 2023. Link (https://www.linkedin.com/pulse/things-sometimes-more-important-than-technology-%ED%98%84%EC%83%81-%EC%A0%84/)
+3. 전현상, “What is Artificial Intelligence? The Role of an AI Engineer”, Future Planning Education Lecture at Eonbuk Elementary School, 2022.

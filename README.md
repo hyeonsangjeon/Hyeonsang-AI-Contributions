@@ -55,7 +55,7 @@
   *Listening with Eyes: A Journey into Generative AI for Image Coding School*, AWS, Aug. 26, 2023
 - **Amazon Awesome Builder Award**  
   *Specialized Workshop for Elementary School-Aged Children of Amazon Employees*, AWS, May 20, 2023 [Link](https://www.linkedin.com/pulse/things-sometimes-more-important-than-technology-%ED%98%84%EC%83%81-%EC%A0%84/)
-- **Awsome Award**  
+- **Awsome Deliver Results**  
   *Deliver Results for the AWS 2023 Summit Conference, AI Basketball booth*, AWS, May 15, 2023
 - **Digital Tech Center Recognition**  
   *Collaboration Champion for Library Development and Platform Integration*, SK holdings C&C, Apr. 12, 2021

@@ -18,8 +18,7 @@
 
 
 ## 🎤 Recent AWS Public Speaking Engagements
-1. 전현상, 이광우, **"Amazon SageMaker로 LLM 배포 개발은 간편하게 응답은 빠르게!"**, *DAY2 Track1 AIML*, AWS Summit Seoul Conference, 2025.[Link]
-(https://youtu.be/20BTS3oTz3Y?si=1LvZYFkgTgabXmQf&t=10)
+1. 전현상, 이광우, **"Amazon SageMaker로 LLM 배포 개발은 간편하게 응답은 빠르게!"**, *DAY2 Track1 AIML*, AWS Summit Seoul Conference, 2025.[Link](https://youtu.be/20BTS3oTz3Y?si=1LvZYFkgTgabXmQf&t=10)
 2. 전현상, 이광우, **"Amazon Bedrock과 SageMaker를 이용한 LLM 파인튜닝 및 커스터마이징  이해하기"**, AWS Data and AI Roadshow Seoul, 2025.[Link](https://www.slideshare.net/slideshow/25d2s08-_amazon-bedrock-sagemaker-llm-pdf/277480413)
 3. 전현상, 곽영화, **"데이터 인사이트의 혁신: Amazon AI 서비스 활용법"**, *생성형 AI 기반 기술 혁신 세션*, AWS Summit Seoul Conference, 2024.[Link](https://youtu.be/99G_qL6bojA?si=kT-_339nKUbnOxAL&t=479)
 4. 전현상 **"AWS Generative AI 서비스의 활용방법과 데모"**, *금융사를 위한 AWS Generative AI Day*, 2023.[Link](https://d1.eventservice.kr/2023/aws/00/0808_gen_ai/0808_AWS_gen_ai.html)

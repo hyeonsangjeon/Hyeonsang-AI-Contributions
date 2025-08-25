@@ -15,6 +15,9 @@
 10. 전현상, “현업에서 어텐션 기반 트랜스포머의 적용과 Generative AI의 동향”, NRIC, *Meric 웨비나, 과학기술정보통신부*, 2023.[Link1](https://youtu.be/Oa-LD4NK4zg?si=6Qrml9jlhbOCHtfd)   [Link2](https://www.nric.or.kr/onlineSeminar/onlineSeminarVodView.do?currentPage=1&onlineSeminaInfoId=221&centerCd=)
 11. 전현상, “클라우드 환경에서 생성형 AI의 미래 전략과 AWS 생성형 AI 기술과 사례”, *2024 클라우드 컨퍼런스⑨*, ITDAILY, 2024.[Link](https://www.youtube.com/watch?v=Fy9SRt-q1wY)
 12. 전현상, “딥러닝 플렛폼에서의 Hyperparameter Optimization 기반 AutoDL 기술 적용사례”, *AI Innovation 2020*, 전자신문, 2020.[Link](https://youtu.be/QMorERxb1YY?si=iN8opTIjZPc2tTzq)
+13. 전현상, 빗썸의 AWS Systems Manager를 활용한 전사 EC2 보안 진단 자동화 구축 사례 1부: 이벤트 기반의 EC2 권한 관리 자동화, *AWS Tech Blog*, 2024.[Link](https://aws.amazon.com/ko/blogs/tech/building-ec2-diagnostics-automation-using-systems-manager-part1/)
+14. 전현상, 빗썸의 AWS Systems Manager를 활용한 전사 EC2 보안 진단 자동화 구축 사례 2부: 중앙화된 EC2 보안 진단 자동화 아키텍처 구축: 이벤트 기반의 EC2 권한 관리 자동화, *AWS Tech Blog*, 2024.[Link](https://aws.amazon.com/ko/blogs/tech/building-ec2-diagnostics-automation-using-systems-manager-part2/)
+
 
 
 ## 🎤 Recent AWS Public Speaking Engagements

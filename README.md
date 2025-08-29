@@ -5,7 +5,7 @@
 
 1. **“Disparity-based space-variant image deblurring”**, *Signal Processing: Image Communication*, vol. 28, no. 7, pp. 792–808, 2013. [Link](https://github.com/hyeonsangjeon/disparity-based-space-vagriant-image-deblurring)
 2. **“An efficient method to remove boundary defects in block-based deblurring algorithm using multiple images”**, *Proc. Workshop on Image Processing and Image Understanding*, 2011.
-3. 이병호, 전현상, "티머니의 MLOps 구현 사례 : Amazon SageMaker를 활용한 배차모델 자동화 및 배포", *AWS Tech Blog*, 2025.[Link](https://aws.amazon.com/ko/blogs/tech/tmoney-sagemaker-mlops-case/)
+3. 전현상, “전문가 강좌: 금융 문서 지식 추출의 정확도를 높이는 AWS 생성형 AI 서비스 적용 방안”, *ITDAILY*, 2025.[Link](http://www.itdaily.kr/news/articleView.html?idxno=223730)
 4. 전현상, “전문가 강좌: 당신의 LLM이 잘 동작하지 않는 이유”, *ITDAILY*, 2024.[Link](http://www.itdaily.kr/news/articleView.html?idxno=223730)
 5. 전현상, “전문가 강좌, 클라우드와 오픈소스 위스퍼를 이용한 한국어 음성 텍스트 변환”, *ITDAILY*, 2022.[Link](http://www.itdaily.kr/news/articleView.html?idxno=213297)
 6. 전현상, “전문가 강좌, AI 모델링에서의 하이퍼매개변수 최적화”, *ITDAILY*, 2022.[Link](http://www.itdaily.kr/news/articleView.html?idxno=210339)
@@ -17,7 +17,7 @@
 12. 전현상, “딥러닝 플렛폼에서의 Hyperparameter Optimization 기반 AutoDL 기술 적용사례”, *AI Innovation 2020*, 전자신문, 2020.[Link](https://youtu.be/QMorERxb1YY?si=iN8opTIjZPc2tTzq)
 13. 전현상, 빗썸의 AWS Systems Manager를 활용한 전사 EC2 보안 진단 자동화 구축 사례 1부: 이벤트 기반의 EC2 권한 관리 자동화, *AWS Tech Blog*, 2024.[Link](https://aws.amazon.com/ko/blogs/tech/building-ec2-diagnostics-automation-using-systems-manager-part1/)
 14. 전현상, 빗썸의 AWS Systems Manager를 활용한 전사 EC2 보안 진단 자동화 구축 사례 2부: 중앙화된 EC2 보안 진단 자동화 아키텍처 구축: 이벤트 기반의 EC2 권한 관리 자동화, *AWS Tech Blog*, 2024.[Link](https://aws.amazon.com/ko/blogs/tech/building-ec2-diagnostics-automation-using-systems-manager-part2/)
-
+15. 이병호, 전현상, "티머니의 MLOps 구현 사례 : Amazon SageMaker를 활용한 배차모델 자동화 및 배포", *AWS Tech Blog*, 2025.[Link](https://aws.amazon.com/ko/blogs/tech/tmoney-sagemaker-mlops-case/)
 
 
 ## 🎤 Recent AWS Public Speaking Engagements

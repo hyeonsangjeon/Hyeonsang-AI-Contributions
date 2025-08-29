@@ -44,6 +44,7 @@
 4.  **SageMaker Bring Your Own Model 소매점 매출 예측**[Link](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/sagemaker/byom/01-scikit-sagemaker-inference-retail-analysis)
 5.  **Transcribe 성능평가와 한국어 자동 음성 인식 평가를 위한 유사도 측정 함수 패키지**[Link](https://github.com/hyeonsangjeon/computing-Korean-STT-error-rates)
 6.  **SageMaker Coding School Day를 위한 Text-to-Image 패키지**[Link](https://github.com/hyeonsangjeon/AIsketcher)
+7. **"금융보안원 AI개발자 대상 딥다이브 GenAI 강의"**, [Link](https://github.com/hyeonsangjeon/PDF2LLM-Tuning-Studio)
 
 ## 🌟 Community and Social Contributions
 

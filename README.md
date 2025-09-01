@@ -31,12 +31,12 @@
 8. 전현상, **"SageMaker Canvas"**, AWS Builders Korea & AI/ML Immersion Day, 2023.[Link](https://aiml-immersionday-kr.splashthat.com/)
 9. 전현상, **"Serverless Image Handler"**, Solution Days, AWS Builders Korea, 2023.[Link](https://catalog.us-east-1.prod.workshops.aws/workshops/fda23258-17b1-46ad-9cae-bef04b616673)
 10. 전현상, **"고성능 검색 증강 생성(RAG) 구축하기 위한 실용적 기술"**, Data & AI Roadshow, AWS Korea, 2024.[Link](https://pages.awscloud.com/aws-kr-data-ai-roadshow-2024.html)
-11. 전현상, **"AWS Serverless AWS 서버리스로 서버 없이 간단한 웹 애플리케이션 만들기"**, AWS Builders Korea, 2022.[Link](https://kr-resources.awscloud.com/aws-builders-korea-level100/aug22-aws-serverless-services?trk=sl_eventpg_krbuilders&trkcampaign=aws-builders-kr)
+11. 전현상, **"AWS Serverless AWS 서버리스로 서버 없이 간단한 웹 애플리케이션 만들기"**, AWS Builders Korea, 2022.[Link](https://catalog.us-east-1.prod.workshops.aws/workshops/fda23258-17b1-46ad-9cae-bef04b616673)
 12. 전현상 et al, “AI Basketball Booth Operation Member”, AWS Summit Korea Conference 2023. [Link](https://www.linkedin.com/in/hyeonsangjeon0310/details/experience/1901293360/multiple-media-viewer?profileId=ACoAACfyScsBMig0bzzGRaCZq2axagoBNOsaOCE&treasuryMediaId=1728405389268&type=IMAGE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list_details_modal%3BGQSWbzlxSqKD9diszIxofg%3D%3D)
 
 
 
-## 💻 AWS GitHub Contribution
+## 💻 GitHub & MVP Asset Contribution - AWS 
 
 1.  **QLORA: Efficient Finetuning of Quantized LLMs**[Link](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/30_fine_tune/01-instruction-tuning-peft-qlora)
 2.  **RAG for Finance Data Workshop**[Link](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/20_applications/04_rag_finance_opensearch_sllm_workshop)
@@ -45,6 +45,7 @@
 5.  **Transcribe 성능평가와 한국어 자동 음성 인식 평가를 위한 유사도 측정 함수 패키지**[Link](https://github.com/hyeonsangjeon/computing-Korean-STT-error-rates)
 6.  **SageMaker Coding School Day를 위한 Text-to-Image 패키지**[Link](https://github.com/hyeonsangjeon/AIsketcher)
 7. **"금융보안원 AI개발자 대상 딥다이브 GenAI 강의"**, [Link](https://github.com/hyeonsangjeon/PDF2LLM-Tuning-Studio)
+8. 전현상, **"AWS Serverless AWS 서버리스로 서버 없이 간단한 웹 애플리케이션 만들기"**, AWS Builders Korea, 2022.[Link](https://catalog.us-east-1.prod.workshops.aws/workshops/fda23258-17b1-46ad-9cae-bef04b616673)
 
 ## 🌟 Community and Social Contributions
 

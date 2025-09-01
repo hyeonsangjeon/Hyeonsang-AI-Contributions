@@ -43,7 +43,7 @@
 5. **Similarity Measurement Functions for Transcribe Performance Evaluation and Korean Speech Recognition Benchmarking** [Link](https://github.com/hyeonsangjeon/computing-Korean-STT-error-rates)
 6. **Text-to-Image Package for SageMaker Coding School Day** [Link](https://github.com/hyeonsangjeon/AIsketcher)
 7. **GenAI Deep Dive Lecture for Financial Security AI Developers**, [Link](https://github.com/hyeonsangjeon/PDF2LLM-Tuning-Studio)
-8. Hyeonsang Jeon, **“Serverless Image Handler”**, Solution Days, AWS Builders Korea, 2023. [Link](https://aws-startup-lofts.com/apj/external-event/3b338a87-43c0-41a1-a983-d57894d7da30)
+8. Hyeonsang Jeon, **“Serverless Image Handler”**, Solution Days, AWS Builders Korea, 2023. [Link](https://catalog.us-east-1.prod.workshops.aws/workshops/fda23258-17b1-46ad-9cae-bef04b616673)
     
 ## 🌟 Community and Social Contributions
 

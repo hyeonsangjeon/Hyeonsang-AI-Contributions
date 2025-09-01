@@ -29,13 +29,12 @@
 6. Hyeonsang Jeon et al., **“Retrieval-Augmented Generation”**, AWS Tech Summit 2023. [Link]()
 7. Hyeonsang Jeon, **“The Most Loved AWS Cloud Services by Financial Customers in 2022”**, AWS Industry Week, 2022. [Link](https://kr-resources.awscloud.com/aws-industry-week-2022-fintech/2022%EB%85%84-%ED%95%9C-%ED%95%B4-%EB%8F%99%EC%95%88-%EA%B8%88%EC%9C%B5-%EA%B3%A0%EA%B0%9D%EC%82%AC%EB%93%A4%EC%97%90%EA%B2%8C-%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%80-%EC%82%AC%EB%9E%91%EC%9D%84-%EB%B0%9B%EC%9D%80-aws-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4)
 8. Hyeonsang Jeon, **“SageMaker Canvas”**, AWS Builders Korea & AI/ML Immersion Day, 2023. [Link](https://aiml-immersionday-kr.splashthat.com/)
-9. Hyeonsang Jeon, **“Serverless Image Handler”**, Solution Days, AWS Builders Korea, 2023. [Link](https://aws-startup-lofts.com/apj/external-event/3b338a87-43c0-41a1-a983-d57894d7da30)
-10. Hyeonsang Jeon, **“Practical Technologies for Building High-Performance RAG”**, Data & AI Roadshow, AWS Korea, 2024. [Link](https://pages.awscloud.com/aws-kr-data-ai-roadshow-2024.html)
-11. Hyeonsang Jeon, **“Building Simple Web Applications with AWS Serverless”**, AWS Builders Korea, 2022. [Link](https://kr-resources.awscloud.com/aws-builders-korea-level100/aug22-aws-serverless-services?trk=sl_eventpg_krbuilders&trkcampaign=aws-builders-kr)
-12. Hyeonsang Jeon et al., **“AI Basketball Booth Operation Member”**, AWS Summit Korea, 2023. [Link](https://www.linkedin.com/in/hyeonsangjeon0310/details/experience/1901293360/multiple-media-viewer?profileId=ACoAACfyScsBMig0bzzGRaCZq2axagoBNOsaOCE&treasuryMediaId=1728405389268&type=IMAGE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list_details_modal%3BGQSWbzlxSqKD9diszIxofg%3D%3D)
+9. Hyeonsang Jeon, **“Practical Technologies for Building High-Performance RAG”**, Data & AI Roadshow, AWS Korea, 2024. [Link](https://pages.awscloud.com/aws-kr-data-ai-roadshow-2024.html)
+10. Hyeonsang Jeon, **“Building Simple Web Applications with AWS Serverless”**, AWS Builders Korea, 2022. [Link](https://kr-resources.awscloud.com/aws-builders-korea-level100/aug22-aws-serverless-services?trk=sl_eventpg_krbuilders&trkcampaign=aws-builders-kr)
+11. Hyeonsang Jeon et al., **“AI Basketball Booth Operation Member”**, AWS Summit Korea, 2023. [Link](https://www.linkedin.com/in/hyeonsangjeon0310/details/experience/1901293360/multiple-media-viewer?profileId=ACoAACfyScsBMig0bzzGRaCZq2axagoBNOsaOCE&treasuryMediaId=1728405389268&type=IMAGE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list_details_modal%3BGQSWbzlxSqKD9diszIxofg%3D%3D)
 
 
-## 💻 AWS GitHub Contributions
+## 💻 GitHub MVP Asset Contributions - AWS 
 
 1. **QLoRA: Efficient Finetuning of Quantized LLMs** [Link](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/30_fine_tune/01-instruction-tuning-peft-qlora)
 2. **RAG for Finance Data Workshop** [Link](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/20_applications/04_rag_finance_opensearch_sllm_workshop)
@@ -44,7 +43,8 @@
 5. **Similarity Measurement Functions for Transcribe Performance Evaluation and Korean Speech Recognition Benchmarking** [Link](https://github.com/hyeonsangjeon/computing-Korean-STT-error-rates)
 6. **Text-to-Image Package for SageMaker Coding School Day** [Link](https://github.com/hyeonsangjeon/AIsketcher)
 7. **GenAI Deep Dive Lecture for Financial Security AI Developers**, [Link](https://github.com/hyeonsangjeon/PDF2LLM-Tuning-Studio)
-
+8. Hyeonsang Jeon, **“Serverless Image Handler”**, Solution Days, AWS Builders Korea, 2023. [Link](https://aws-startup-lofts.com/apj/external-event/3b338a87-43c0-41a1-a983-d57894d7da30)
+    
 ## 🌟 Community and Social Contributions
 
 1. Hyeonsang Jeon et al., **“A World Heard with Eyes: Drawing Hearts with GenAI”**, *Cheong-eum Welfare Center for the Hearing Impaired*, AWS Korea, 2023. [Link](http://m.ignnews.co.kr/news/articleView.html?idxno=13535)

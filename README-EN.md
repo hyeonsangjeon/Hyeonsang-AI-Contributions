@@ -44,6 +44,7 @@
 6. **Text-to-Image Package for SageMaker Coding School Day** [Link](https://github.com/hyeonsangjeon/AIsketcher)
 7. **GenAI Deep Dive Lecture for Financial Security AI Developers**, [Link](https://github.com/hyeonsangjeon/PDF2LLM-Tuning-Studio)
 8. Hyeonsang Jeon, **“Serverless Image Handler”**, Solution Days, AWS Builders Korea, 2023. [Link](https://catalog.us-east-1.prod.workshops.aws/workshops/fda23258-17b1-46ad-9cae-bef04b616673)
+9. **GenAI Multimodal document information extractor pipeline**[Link](https://github.com/hyeonsangjeon/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/20_applications/27_multimodal_document_ai_pipeline)
     
 ## 🌟 Community and Social Contributions
 

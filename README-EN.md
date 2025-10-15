@@ -47,6 +47,7 @@
 9. **GenAI Multimodal document information extractor pipeline**[Link](https://github.com/hyeonsangjeon/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/20_applications/27_multimodal_document_ai_pipeline)
 10. **Amazon-Bedrock-Guardrails-Toolkit**[Link](https://github.com/hyeonsangjeon/Amazon-Bedrock-Guardrails-Toolkit/tree/main)
 11. **GPU-Accelerated Financial PDF Processing and QA Generation Pipeline with Bedrock LLM** [Link](https://catalog.us-east-1.prod.workshops.aws/workshops/61cd351b-6326-4618-ad97-e318ed31472f/ko-KR)
+12. **Query Rewriting package for mapping Korean and English words based on pronunciation similarity.** [Link](https://github.com/hyeonsangjeon/pronunciation-mapper)
     
 ## 🌟 Community and Social Contributions
 

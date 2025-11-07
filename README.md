@@ -5,7 +5,7 @@
 
 1. **“Disparity-based space-variant image deblurring”**, *Signal Processing: Image Communication*, vol. 28, no. 7, pp. 792–808, 2013. [Link](https://github.com/hyeonsangjeon/disparity-based-space-vagriant-image-deblurring)
 2. **“An efficient method to remove boundary defects in block-based deblurring algorithm using multiple images”**, *Proc. Workshop on Image Processing and Image Understanding*, 2011.
-3. 전현상, “전문가 강좌: 금융 문서 지식 추출의 정확도를 높이는 AWS 생성형 AI 서비스 적용 방안”, *ITDAILY*, 2025.[Link](http://www.itdaily.kr/news/articleView.html?idxno=223730)
+3. 전현상, “전문가 강좌: 금융 문서 지식 추출의 정확도를 높이는 AWS 생성형 AI 서비스 적용 방안”, *ITDAILY*, 2025.[Link](http://www.itdaily.kr/news/articleView.html?idxno=235049)
 4. 전현상, “전문가 강좌: 당신의 LLM이 잘 동작하지 않는 이유”, *ITDAILY*, 2024.[Link](http://www.itdaily.kr/news/articleView.html?idxno=223730)
 5. 전현상, “전문가 강좌, 클라우드와 오픈소스 위스퍼를 이용한 한국어 음성 텍스트 변환”, *ITDAILY*, 2022.[Link](http://www.itdaily.kr/news/articleView.html?idxno=213297)
 6. 전현상, “전문가 강좌, AI 모델링에서의 하이퍼매개변수 최적화”, *ITDAILY*, 2022.[Link](http://www.itdaily.kr/news/articleView.html?idxno=210339)

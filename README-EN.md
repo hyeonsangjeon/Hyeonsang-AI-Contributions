@@ -4,7 +4,7 @@
 
 1. **“Disparity-based space-variant image deblurring”**, *Signal Processing: Image Communication*, vol. 28, no. 7, pp. 792–808, 2013. [Link](https://github.com/hyeonsangjeon/disparity-based-space-vagriant-image-deblurring)
 2. **“An efficient method to remove boundary defects in block-based deblurring algorithm using multiple images”**, *Proc. Workshop on Image Processing and Image Understanding*, 2011.
-3. Hyeonsang Jeon, **“Expert Lecture: Applying AWS Generative AI Services to Improve the Accuracy of Knowledge Extraction from Financial Documents”**, *ITDAILY*, 2025. [Link](http://www.itdaily.kr/news/articleView.html?idxno=223730)
+3. Hyeonsang Jeon, **“Expert Lecture: Applying AWS Generative AI Services to Improve the Accuracy of Knowledge Extraction from Financial Documents”**, *ITDAILY*, 2025. [Link]([http://www.itdaily.kr/news/articleView.html?idxno=223730](http://www.itdaily.kr/news/articleView.html?idxno=235049))
 4. Hyeonsang Jeon, **“Expert Lecture: Why Your LLM Is Not Working Properly”**, *ITDAILY*, 2024. [Link](http://www.itdaily.kr/news/articleView.html?idxno=223730)
 5. Hyeonsang Jeon, **“Expert Lecture: Korean Speech-to-Text Conversion Using Cloud and Open-Source Whisper”**, *ITDAILY*, 2022. [Link](http://www.itdaily.kr/news/articleView.html?idxno=213297)
 6. Hyeonsang Jeon, **“Expert Lecture: Hyperparameter Optimization in AI Modeling”**, *ITDAILY*, 2022. [Link](http://www.itdaily.kr/news/articleView.html?idxno=210339)

@@ -44,7 +44,7 @@
 6. **Text-to-Image Package for SageMaker Coding School Day** [Link](https://github.com/hyeonsangjeon/AIsketcher)
 7. **GenAI Deep Dive Lecture for Financial Security AI Developers**, [Link](https://github.com/hyeonsangjeon/PDF2LLM-Tuning-Studio)
 8. Hyeonsang Jeon, **“Serverless Image Handler”**, Solution Days, AWS Builders Korea, 2023. [Link](https://catalog.us-east-1.prod.workshops.aws/workshops/fda23258-17b1-46ad-9cae-bef04b616673)
-9. **GenAI Multimodal document information extractor pipeline**[Link](https://github.com/hyeonsangjeon/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/20_applications/27_multimodal_document_ai_pipeline)
+9. **GenAI Multimodal document information extractor pipeline**[Link](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/20_applications/27_multimodal_document_ai_pipeline)
 10. **Amazon-Bedrock-Guardrails-Toolkit**[Link](https://github.com/hyeonsangjeon/Amazon-Bedrock-Guardrails-Toolkit/tree/main)
 11. **GPU-Accelerated Financial PDF Processing and QA Generation Pipeline with Bedrock LLM** [Link](https://catalog.us-east-1.prod.workshops.aws/workshops/61cd351b-6326-4618-ad97-e318ed31472f/ko-KR)
 12. **Query Rewriting package for mapping Korean and English words based on pronunciation similarity.** [Link](https://github.com/hyeonsangjeon/pronunciation-mapper)

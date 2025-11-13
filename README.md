@@ -46,7 +46,7 @@
 6.  **SageMaker Coding School Day를 위한 Text-to-Image 패키지**[Link](https://github.com/hyeonsangjeon/AIsketcher)
 7. **"금융보안원 AI개발자 대상 딥다이브 GenAI 강의"**, [Link](https://github.com/hyeonsangjeon/PDF2LLM-Tuning-Studio)
 8. 전현상, **"AWS Serverless AWS 서버리스로 서버 없이 간단한 웹 애플리케이션 만들기"**, AWS Builders Korea, 2022.[Link](https://catalog.us-east-1.prod.workshops.aws/workshops/fda23258-17b1-46ad-9cae-bef04b616673)
-9. **GenAI 멀티모달 문서 정보 추출 파이프라인**[Link](https://github.com/hyeonsangjeon/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/20_applications/27_multimodal_document_ai_pipeline)
+9. **GenAI 멀티모달 문서 정보 추출 파이프라인**[Link](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/20_applications/27_multimodal_document_ai_pipeline)
 10. **Amazon-Bedrock-Guardrails-Toolkit**[Link](https://github.com/hyeonsangjeon/Amazon-Bedrock-Guardrails-Toolkit/tree/main)
 11. **GPU 기반 금융 PDF 문서 처리 및 Bedrock LLM 활용 QA 생성 파이프라인** [Link](https://catalog.us-east-1.prod.workshops.aws/workshops/61cd351b-6326-4618-ad97-e318ed31472f/ko-KR)
 12. **Query Rewriting 한국어 및 영어 단어 간 발음 유사도 기반 매핑 패키지** [Link](https://github.com/hyeonsangjeon/pronunciation-mapper)

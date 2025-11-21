@@ -18,7 +18,7 @@
 13. 전현상, 빗썸의 AWS Systems Manager를 활용한 전사 EC2 보안 진단 자동화 구축 사례 1부: 이벤트 기반의 EC2 권한 관리 자동화, *AWS Tech Blog*, 2024.[Link](https://aws.amazon.com/ko/blogs/tech/building-ec2-diagnostics-automation-using-systems-manager-part1/)
 14. 전현상, 빗썸의 AWS Systems Manager를 활용한 전사 EC2 보안 진단 자동화 구축 사례 2부: 중앙화된 EC2 보안 진단 자동화 아키텍처 구축: 이벤트 기반의 EC2 권한 관리 자동화, *AWS Tech Blog*, 2024.[Link](https://aws.amazon.com/ko/blogs/tech/building-ec2-diagnostics-automation-using-systems-manager-part2/)
 15. 이병호, 전현상, "티머니의 MLOps 구현 사례 : Amazon SageMaker를 활용한 배차모델 자동화 및 배포", *AWS Tech Blog*, 2025.[Link](https://aws.amazon.com/ko/blogs/tech/tmoney-sagemaker-mlops-case/)
-
+16. 전현상, "감성문장과 뉴스 학습모델을 기반한 주가 예측의 가능성 연구 후기 (Feat. BERT model)", *SK AX 사내 기술 컨퍼런스*, SK holdings C&C, 2020. [Link] (https://youtu.be/kSZOsFX_KHI?si=6F5TqHFOfquvw4OC)
 
 ## 🎤 Recent AWS Public Speaking Engagements
 1. 전현상, 이광우, **"Amazon SageMaker로 LLM 배포 개발은 간편하게 응답은 빠르게!"**, *DAY2 Track1 AIML*, AWS Summit Seoul Conference, 2025.[Link](https://youtu.be/20BTS3oTz3Y?si=1LvZYFkgTgabXmQf&t=10)
@@ -74,7 +74,7 @@
 - **Digital Tech Center Recognition**  
   *Collaboration Champion for Library Development and Platform Integration*, SK holdings C&C, Apr. 12, 2021
 - **Competition Champion in Data Analysis and NLP Processing**  
-  *Stock Closing Price Classification and Prediction Modeling Using Transformers BERT on Stock News Articles*, SK holdings C&C, Aug. 06, 2020
+  *Stock Closing Price Classification and Prediction Modeling Using Transformers BERT on Stock News Articles*, SK holdings C&C, Aug. 06, 2020 [Link] (https://youtu.be/kSZOsFX_KHI?si=6F5TqHFOfquvw4OC)
 - **AWS Certified Machine Learning – Specialty**, Dec. 2022
 - **AWS Certified Solutions Architect – Associate**, Dec 2021
 

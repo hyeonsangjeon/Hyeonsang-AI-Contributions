@@ -17,7 +17,7 @@
 13. Hyeonsang Jeon, **“Case Study of Automating Company-Wide EC2 Security Diagnostics with AWS Systems Manager – Part 1: Event-Based EC2 Permission Management Automation”**, *AWS Tech Blog*, 2024. [Link](https://aws.amazon.com/ko/blogs/tech/building-ec2-diagnostics-automation-using-systems-manager-part1/)
 14. Hyeonsang Jeon, **“Case Study of Automating Company-Wide EC2 Security Diagnostics with AWS Systems Manager – Part 2: Centralized EC2 Security Diagnostics Architecture”**, *AWS Tech Blog*, 2024. [Link](https://aws.amazon.com/ko/blogs/tech/building-ec2-diagnostics-automation-using-systems-manager-part2/)
 15. Byungho Lee, Hyeonsang Jeon, **“T-Money’s MLOps Implementation: Automating and Deploying Dispatch Models with Amazon SageMaker”**, *AWS Tech Blog*, 2025. [Link](https://aws.amazon.com/ko/blogs/tech/tmoney-sagemaker-mlops-case/)
-16. Hyeonsang Jeon, “A Study on the Possibility of Stock Price Prediction Based on Sentiment Analysis and News Classification Models (Feat. BERT Model),” SK AX Internal Technology Conference, SK Holdings C&C, 2020. Link](https://youtu.be/kSZOsFX_KHI?si=6F5TqHFOfquvw4OC)
+16. Hyeonsang Jeon, “A Study on the Possibility of Stock Price Prediction Based on Sentiment Analysis and News Classification Models (Feat. BERT Model),” SK AX Internal Technology Conference, SK Holdings C&C, 2020. [Link](https://youtu.be/kSZOsFX_KHI?si=6F5TqHFOfquvw4OC)
 
 ## 🎤 Recent AWS Public Speaking Engagements
 

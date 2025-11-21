@@ -71,6 +71,6 @@
 - **Digital Tech Center Recognition**  
   *Collaboration Champion for Library Development and Platform Integration*, SK holdings C&C, Apr. 12, 2021
 - **Competition Champion in Data Analysis and NLP Processing**  
-  *Stock Closing Price Classification and Prediction Modeling Using Transformers (BERT) on Stock News Articles*, SK holdings C&C, Aug. 06, 2020
+  *Stock Closing Price Classification and Prediction Modeling Using Transformers (BERT) on Stock News Articles*, SK holdings C&C, Aug. 06, 2020 [Link](https://youtu.be/kSZOsFX_KHI?si=6F5TqHFOfquvw4OC)
 - **AWS Certified Machine Learning – Specialty**, Dec. 2022
 - **AWS Certified Solutions Architect – Associate**, Dec. 2021

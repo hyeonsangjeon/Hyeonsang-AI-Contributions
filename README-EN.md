@@ -48,6 +48,8 @@
 10. **Amazon-Bedrock-Guardrails-Toolkit**[Link](https://github.com/hyeonsangjeon/Amazon-Bedrock-Guardrails-Toolkit/tree/main)
 11. **GPU-Accelerated Financial PDF Processing and QA Generation Pipeline with Bedrock LLM** [Link](https://catalog.us-east-1.prod.workshops.aws/workshops/61cd351b-6326-4618-ad97-e318ed31472f/ko-KR)
 12. **Query Rewriting package for mapping Korean and English words based on pronunciation similarity.** [Link](https://github.com/hyeonsangjeon/pronunciation-mapper)
+13. **strands bedrock agents with Claude Reasoning Models hands-on** [Link](https://github.com/hyeonsangjeon/strands-bedrock-agents-cookbook/tree/main)
+
     
 ## 🌟 Community and Social Contributions
 

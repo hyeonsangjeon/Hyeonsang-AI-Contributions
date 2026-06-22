@@ -35,6 +35,13 @@
 12. 전현상 et al, “AI Basketball Booth Operation Member”, AWS Summit Korea Conference 2023. [Link](https://www.linkedin.com/in/hyeonsangjeon0310/details/experience/1901293360/multiple-media-viewer?profileId=ACoAACfyScsBMig0bzzGRaCZq2axagoBNOsaOCE&treasuryMediaId=1728405389268&type=IMAGE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list_details_modal%3BGQSWbzlxSqKD9diszIxofg%3D%3D)
 13. 전현상, 이광우, **"Gen AI 로드맵 - Amazon Bedrock AgentCore로 완성하는 Agentic AI"**, DAY3, AI x Industry Week Conference, AWS, 2025. [Link](https://youtu.be/Bz4FcH0GeE4?si=7QrVM8WzdvxwSWjR&t=1)
 
+## 🎤 Recent Microsoft Public Speaking Engagements
+
+1. 전현상, **"모델은 쏟아진다 — 뭘 고르고, 얼마나 되는가: Foundry 벤치마크, 모델 라우팅, BYOM"**, Microsoft Event, 2026년 6월 26일. [Link](https://msevents.microsoft.com/event?id=3011252995&ocid=AID2445079_FACEBOOK_oo_spl100010613930089)
+2. 전현상, **"Build faster with Solution Accelerators – Foundry IQ + Fabric IQ"**, CAIP Roadshow - SE hands-on Workshop, Microsoft, 2026년 4월 23일. [Link](https://github.com/hyeonsangjeon/foundry-iq-demo-suite/tree/main/docs/handson-0423/demo-pack)
+3. 전현상, **"Work IQ / Fabric IQ / Foundry IQ Deep Dive"**, CAIP FF Roadshow Day 1 / STU ROADSHOW, Microsoft, 2026년 4월 21일. *(Internal PPT)*
+4. 전현상, **"Knowledge Retrieval Studio"**, GBB Connect, Microsoft, 2026년 4월 21일. [Link](https://github.com/hyeonsangjeon/foundry-iq-demo-suite)
+
 
 ## 💻 GitHub & MVP Asset Contribution - AWS 
 
@@ -52,11 +59,26 @@
 12. **Query Rewriting 한국어 및 영어 단어 간 발음 유사도 기반 매핑 패키지** [Link](https://github.com/hyeonsangjeon/pronunciation-mapper)
 13. **strands bedrock agents with Claude Reasoning Models 핸즈온** [Link](https://github.com/hyeonsangjeon/strands-bedrock-agents-cookbook/tree/main)
 
+## 💻 GitHub & MVP Asset Contributions - Microsoft
+
+1. **GDPVal RealWorks: 실제 전문 업무 기반 LLM 벤치마크, YAML 실험 파이프라인, 라이브 대시보드** [Repo](https://github.com/hyeonsangjeon/gdpval-realworks) [Dashboard](https://hyeonsangjeon.github.io/gdpval-realworks/)
+2. **Foundry Agent Network Diagnostic: Foundry Agent BYO VNet 환경의 Data Proxy → Private APIM 경로 진단 도구** [Repo](https://github.com/hyeonsangjeon/foundry-agent-network-diagnostic)
+3. **When Reasoning Pays Off: reasoning effort의 비용, 지연시간, 품질, 용량 영향을 측정하는 벤치마크 및 운영 가이드** [Repo](https://github.com/hyeonsangjeon/when-reasoning-pays-off) [Blog](https://hyeonsangjeon.github.io/when-reasoning-pays-off/en/)
+4. **Azure AI Search Foundry IQ Live Knowledge Sources: MCP Server와 Fabric Ontology Knowledge Source 기반 실시간 근거 추적 샘플** [Repo](https://github.com/hyeonsangjeon/azure-ai-search-foundry-iq-live-knowledge-sources)
+5. **Foundry IQ Demo Suite: Azure AI Search Knowledge Bases, Knowledge Sources, Semantic JOIN, Fabric IQ, SharePoint, MCP grounding을 보여주는 Knowledge Retrieval Studio** [Repo](https://github.com/hyeonsangjeon/foundry-iq-demo-suite) [App](https://foundry-iq-demo-suite.vercel.app/)
+6. **Multi-Agent Orchestration Observability: black-box multi-agent 라우팅을 추적, 로깅, 재라우팅 가능한 구조로 전환하는 Semantic Kernel/Azure OpenAI 노트북** [Repo](https://github.com/hyeonsangjeon/multi-agent-orchestration-observability)
+7. Hyeonsang Jeon & Xinyuwei, **EXAONE Multi-LoRA on Azure: Azure GPU VM에서 vLLM 기반 EXAONE 3.5 Multi-LoRA 서빙 및 성능 검증** [Repo](https://github.com/david-xinyuwei/EXAONE-Multi-LoRA-on-Azure)
+
+## 💻 Personal Apps & Developer Tools
+
+1. **Repolis: 내 GitHub 레포를 탐험하는 3D 도시형 포트폴리오 앱** [Repo](https://github.com/hyeonsangjeon/Repolis) [App](https://hyeonsangjeon.github.io/Repolis/)
+
 ## 🌟 Community and Social Contributions
 
-1. 전현상 et al, **"A World Heard with Eyes: Drawing Hearts with GenAI"**, 청음복지센터 for the **Hearing Impaired**, AWS Korea, 2023. [Link](http://m.ignnews.co.kr/news/articleView.html?idxno=13535)
-2. 전현상, **“AI Workshop for Elementary School-Aged Children of Amazon Employees”**, AWS **Coding School** Day, AWS, 2023. [Link](https://www.linkedin.com/pulse/things-sometimes-more-important-than-technology-%ED%98%84%EC%83%81-%EC%A0%84/)
-3. 전현상, **“What is Artificial Intelligence? The Role of an AI Engineer”**, Future Planning Education Lecture at **Eonbuk Elementary School**, 2022. [Link](https://www.linkedin.com/in/hyeonsangjeon0310/details/experience/1901293360/multiple-media-viewer?profileId=ACoAACfyScsBMig0bzzGRaCZq2axagoBNOsaOCE&treasuryMediaId=1728405389270&type=IMAGE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list_details_modal%3BsdKfT9ZoQgaxxncyi1HKYg%3D%3D)
+1. 전현상, **“컴퓨터가 내 숙제를 대신 해주면 몇 점을 받을까? AI에게 어른들의 일을 시켜본 실험 이야기”**, 미래설계교육, 언북초등학교, 2026년 6월 8일. [PDF](assets/social-contributions/2026-06-08-eonbuk-ai-homework-ai-experiment.pdf)
+2. 전현상 et al, **"A World Heard with Eyes: Drawing Hearts with GenAI"**, 청음복지센터 for the **Hearing Impaired**, AWS Korea, 2023. [Link](http://m.ignnews.co.kr/news/articleView.html?idxno=13535)
+3. 전현상, **“AI Workshop for Elementary School-Aged Children of Amazon Employees”**, AWS **Coding School** Day, AWS, 2023. [Link](https://www.linkedin.com/pulse/things-sometimes-more-important-than-technology-%ED%98%84%EC%83%81-%EC%A0%84/)
+4. 전현상, **“What is Artificial Intelligence? The Role of an AI Engineer”**, Future Planning Education Lecture at **Eonbuk Elementary School**, 2022. [Link](https://www.linkedin.com/in/hyeonsangjeon0310/details/experience/1901293360/multiple-media-viewer?profileId=ACoAACfyScsBMig0bzzGRaCZq2axagoBNOsaOCE&treasuryMediaId=1728405389270&type=IMAGE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list_details_modal%3BsdKfT9ZoQgaxxncyi1HKYg%3D%3D)
 
 
 ## 🏅 Recent Certificates and Awards
@@ -77,4 +99,3 @@
   *Stock Closing Price Classification and Prediction Modeling Using Transformers BERT on Stock News Articles*, SK holdings C&C, Aug. 06, 2020 [Link] (https://youtu.be/kSZOsFX_KHI?si=6F5TqHFOfquvw4OC)
 - **AWS Certified Machine Learning – Specialty**, Dec. 2022
 - **AWS Certified Solutions Architect – Associate**, Dec 2021
-

@@ -34,6 +34,13 @@
 11. Hyeonsang Jeon et al., **“AI Basketball Booth Operation Member”**, AWS Summit Korea, 2023. [Link](https://www.linkedin.com/in/hyeonsangjeon0310/details/experience/1901293360/multiple-media-viewer?profileId=ACoAACfyScsBMig0bzzGRaCZq2axagoBNOsaOCE&treasuryMediaId=1728405389268&type=IMAGE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list_details_modal%3BGQSWbzlxSqKD9diszIxofg%3D%3D)
 12. Hyeonsang Jeon, Kwangwoo Lee, **"Gen AI Roadmap - Agentic AI Completed with Amazon Bedrock AgentCore"**, DAY3, AI x Industry Week Conference, AWS, 2025. [Link](https://youtu.be/Bz4FcH0GeE4?si=7QrVM8WzdvxwSWjR&t=1)
 
+## 🎤 Recent Microsoft Public Speaking Engagements
+
+1. Hyeonsang Jeon, **"Models Are Flooding In - Which Ones Should We Choose, and How Much Do They Cost?: Foundry Benchmark, Model Routing, and BYOM"**, Microsoft Event, June 26, 2026. [Link](https://msevents.microsoft.com/event?id=3011252995&ocid=AID2445079_FACEBOOK_oo_spl100010613930089)
+2. Hyeonsang Jeon, **"Build faster with Solution Accelerators - Foundry IQ + Fabric IQ"**, CAIP Roadshow - SE Hands-on Workshop, Microsoft, Apr. 23, 2026. [Link](https://github.com/hyeonsangjeon/foundry-iq-demo-suite/tree/main/docs/handson-0423/demo-pack)
+3. Hyeonsang Jeon, **"Work IQ / Fabric IQ / Foundry IQ Deep Dive"**, CAIP FF Roadshow Day 1 / STU ROADSHOW, Microsoft, Apr. 21, 2026. *(Internal deck)*
+4. Hyeonsang Jeon, **"Knowledge Retrieval Studio"**, GBB Connect, Microsoft, Apr. 21, 2026. [Link](https://github.com/hyeonsangjeon/foundry-iq-demo-suite)
+
 ## 💻 GitHub MVP Asset Contributions - AWS 
 
 1. **QLoRA: Efficient Finetuning of Quantized LLMs** [Link](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/genai/aws-gen-ai-kr/30_fine_tune/01-instruction-tuning-peft-qlora)
@@ -50,12 +57,27 @@
 12. **Query Rewriting package for mapping Korean and English words based on pronunciation similarity.** [Link](https://github.com/hyeonsangjeon/pronunciation-mapper)
 13. **strands bedrock agents with Claude Reasoning Models hands-on** [Link](https://github.com/hyeonsangjeon/strands-bedrock-agents-cookbook/tree/main)
 
+## 💻 GitHub & MVP Asset Contributions - Microsoft
+
+1. **GDPVal RealWorks: LLM benchmarking on real professional tasks, with a YAML-driven experiment pipeline and live dashboard** [Repo](https://github.com/hyeonsangjeon/gdpval-realworks) [Dashboard](https://hyeonsangjeon.github.io/gdpval-realworks/)
+2. **Foundry Agent Network Diagnostic: read-only diagnostics for the Data Proxy → Private APIM path in Foundry Agent BYO VNet environments** [Repo](https://github.com/hyeonsangjeon/foundry-agent-network-diagnostic)
+3. **When Reasoning Pays Off: benchmark and operator guide for reasoning effort cost, latency, quality, and capacity planning** [Repo](https://github.com/hyeonsangjeon/when-reasoning-pays-off) [Blog](https://hyeonsangjeon.github.io/when-reasoning-pays-off/en/)
+4. **Azure AI Search Foundry IQ Live Knowledge Sources: live grounding sample for MCP Server and Fabric Ontology Knowledge Sources with traceable evidence** [Repo](https://github.com/hyeonsangjeon/azure-ai-search-foundry-iq-live-knowledge-sources)
+5. **Foundry IQ Demo Suite: Knowledge Retrieval Studio for Azure AI Search Knowledge Bases, Knowledge Sources, Semantic JOIN, Fabric IQ, SharePoint, and MCP grounding** [Repo](https://github.com/hyeonsangjeon/foundry-iq-demo-suite) [App](https://foundry-iq-demo-suite.vercel.app/)
+6. **Multi-Agent Orchestration Observability: Semantic Kernel and Azure OpenAI notebook for transparent, loggable, overridable multi-agent routing** [Repo](https://github.com/hyeonsangjeon/multi-agent-orchestration-observability)
+7. Hyeonsang Jeon & Xinyuwei, **EXAONE Multi-LoRA on Azure: vLLM-based EXAONE 3.5 Multi-LoRA serving and benchmarking on Azure GPU VMs** [Repo](https://github.com/david-xinyuwei/EXAONE-Multi-LoRA-on-Azure)
+
+## 💻 Personal Apps & Developer Tools
+
+1. **Repolis: a walkable 3D city for exploring my GitHub repositories** [Repo](https://github.com/hyeonsangjeon/Repolis) [App](https://hyeonsangjeon.github.io/Repolis/)
+
     
 ## 🌟 Community and Social Contributions
 
-1. Hyeonsang Jeon et al., **“A World Heard with Eyes: Drawing Hearts with GenAI”**, *Cheong-eum Welfare Center for the Hearing Impaired*, AWS Korea, 2023. [Link](http://m.ignnews.co.kr/news/articleView.html?idxno=13535)
-2. Hyeonsang Jeon, **“AI Workshop for Elementary School-Aged Children of Amazon Employees”**, AWS *Coding School Day*, 2023. [Link](https://www.linkedin.com/pulse/things-sometimes-more-important-than-technology-%ED%98%84%EC%83%81-%EC%A0%84/)
-3. Hyeonsang Jeon, **“What is Artificial Intelligence? The Role of an AI Engineer”**, Future Planning Education Lecture at *Eonbuk Elementary School*, 2022. [Link](https://www.linkedin.com/in/hyeonsangjeon0310/details/experience/1901293360/multiple-media-viewer?profileId=ACoAACfyScsBMig0bzzGRaCZq2axagoBNOsaOCE&treasuryMediaId=1728405389270&type=IMAGE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list_details_modal%3BsdKfT9ZoQgaxxncyi1HKYg%3D%3D)
+1. Hyeonsang Jeon, **“What Grade Would I Get If a Computer Did My Homework? Experiments Asking AI to Do Adults’ Work”**, Future Planning Education, Eonbuk Elementary School, June 8, 2026. [PDF](assets/social-contributions/2026-06-08-eonbuk-ai-homework-ai-experiment.pdf)
+2. Hyeonsang Jeon et al., **“A World Heard with Eyes: Drawing Hearts with GenAI”**, *Cheong-eum Welfare Center for the Hearing Impaired*, AWS Korea, 2023. [Link](http://m.ignnews.co.kr/news/articleView.html?idxno=13535)
+3. Hyeonsang Jeon, **“AI Workshop for Elementary School-Aged Children of Amazon Employees”**, AWS *Coding School Day*, 2023. [Link](https://www.linkedin.com/pulse/things-sometimes-more-important-than-technology-%ED%98%84%EC%83%81-%EC%A0%84/)
+4. Hyeonsang Jeon, **“What is Artificial Intelligence? The Role of an AI Engineer”**, Future Planning Education Lecture at *Eonbuk Elementary School*, 2022. [Link](https://www.linkedin.com/in/hyeonsangjeon0310/details/experience/1901293360/multiple-media-viewer?profileId=ACoAACfyScsBMig0bzzGRaCZq2axagoBNOsaOCE&treasuryMediaId=1728405389270&type=IMAGE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list_details_modal%3BsdKfT9ZoQgaxxncyi1HKYg%3D%3D)
 
 
 ## 🏅 Recent Certificates and Awards

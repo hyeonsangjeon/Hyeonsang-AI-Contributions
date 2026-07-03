@@ -19,6 +19,7 @@
 14. 전현상, 빗썸의 AWS Systems Manager를 활용한 전사 EC2 보안 진단 자동화 구축 사례 2부: 중앙화된 EC2 보안 진단 자동화 아키텍처 구축: 이벤트 기반의 EC2 권한 관리 자동화, *AWS Tech Blog*, 2024.[Link](https://aws.amazon.com/ko/blogs/tech/building-ec2-diagnostics-automation-using-systems-manager-part2/)
 15. 이병호, 전현상, "티머니의 MLOps 구현 사례 : Amazon SageMaker를 활용한 배차모델 자동화 및 배포", *AWS Tech Blog*, 2025.[Link](https://aws.amazon.com/ko/blogs/tech/tmoney-sagemaker-mlops-case/)
 16. 전현상, "감성문장과 뉴스 학습모델을 기반한 주가 예측의 가능성 연구 후기 (Feat. BERT model)", *SK AX 사내 기술 컨퍼런스*, SK holdings C&C, 2020. [Link](https://youtu.be/kSZOsFX_KHI?si=6F5TqHFOfquvw4OC)
+17. 전현상, **"한국어 ASR 벤치마크 다시 보기: 3,922문장과 3개 콜센터 시나리오로 다시 본 한국어 STT 벤치마크"**, *2023 공개 실험 재분석 및 작업 회고*, 2023. [Link](https://hyeonsangjeon.github.io/job-transcribe/)
 
 ## 🎤 Recent AWS Public Speaking Engagements
 1. 전현상, 이광우, **"Amazon SageMaker로 LLM 배포 개발은 간편하게 응답은 빠르게!"**, *DAY2 Track1 AIML*, AWS Summit Seoul Conference, 2025.[Link](https://youtu.be/20BTS3oTz3Y?si=1LvZYFkgTgabXmQf&t=10)
@@ -37,10 +38,11 @@
 
 ## 🎤 Recent Microsoft Public Speaking Engagements
 
-1. 전현상, **"모델은 쏟아진다 — 뭘 고르고, 얼마나 되는가: Foundry 벤치마크, 모델 라우팅, BYOM"**, Microsoft Event, 2026년 6월 26일. [Link](https://msevents.microsoft.com/event?id=3011252995&ocid=AID2445079_FACEBOOK_oo_spl100010613930089)
-2. 전현상, **"Build faster with Solution Accelerators – Foundry IQ + Fabric IQ"**, CAIP Roadshow - SE hands-on Workshop, Microsoft, 2026년 4월 23일. [Link](https://github.com/hyeonsangjeon/foundry-iq-demo-suite/tree/main/docs/handson-0423/demo-pack)
-3. 전현상, **"Work IQ / Fabric IQ / Foundry IQ Deep Dive"**, CAIP FF Roadshow Day 1 / STU ROADSHOW, Microsoft, 2026년 4월 21일. *(Internal PPT)*
-4. 전현상, **"Knowledge Retrieval Studio"**, GBB Connect, Microsoft, 2026년 4월 21일. [Link](https://github.com/hyeonsangjeon/foundry-iq-demo-suite)
+1. 전현상, **"Fabric IQ Knowledge Source의 AI Search 백본 구조와 적용 패턴"**, *내부 컨퍼런스 발표*, Microsoft Tech Summit Korea, 2026년 6월 29일, Sr. Solution Engineer, Global Black Belt AI Apps, Microsoft. [Photo](assets/speaking/2026-06-29-tech-summit-korea-fabric-iq-ai-search.png)
+2. 전현상, **"모델은 쏟아진다 — 뭘 고르고, 얼마나 되는가: Foundry 벤치마크, 모델 라우팅, BYOM"**, *퍼블릭 컨퍼런스 발표*, Microsoft Event, 2026년 6월 26일 14:00-14:30, Sr. Solution Engineer, Global Black Belt AI Apps, Microsoft. [Link](https://msevents.microsoft.com/event?id=3011252995&ocid=AID2445079_FACEBOOK_oo_spl100010613930089)
+3. 전현상, **"Build faster with Solution Accelerators – Foundry IQ + Fabric IQ"**, CAIP Roadshow - SE hands-on Workshop, Microsoft, 2026년 4월 23일. [Link](https://github.com/hyeonsangjeon/foundry-iq-demo-suite/tree/main/docs/handson-0423/demo-pack)
+4. 전현상, **"Work IQ / Fabric IQ / Foundry IQ Deep Dive"**, CAIP FF Roadshow Day 1 / STU ROADSHOW, Microsoft, 2026년 4월 21일. *(Internal PPT)*
+5. 전현상, **"Knowledge Retrieval Studio"**, GBB Connect, Microsoft, 2026년 4월 21일. [Link](https://github.com/hyeonsangjeon/foundry-iq-demo-suite)
 
 
 ## 💻 GitHub & MVP Asset Contribution - AWS 
@@ -64,7 +66,7 @@
 1. **GDPVal RealWorks: 실제 전문 업무 기반 LLM 벤치마크, YAML 실험 파이프라인, 라이브 대시보드** [Repo](https://github.com/hyeonsangjeon/gdpval-realworks) [Dashboard](https://hyeonsangjeon.github.io/gdpval-realworks/)
 2. **Foundry Agent Network Diagnostic: Foundry Agent BYO VNet 환경의 Data Proxy → Private APIM 경로 진단 도구** [Repo](https://github.com/hyeonsangjeon/foundry-agent-network-diagnostic)
 3. **When Reasoning Pays Off: reasoning effort의 비용, 지연시간, 품질, 용량 영향을 측정하는 벤치마크 및 운영 가이드** [Repo](https://github.com/hyeonsangjeon/when-reasoning-pays-off) [Blog](https://hyeonsangjeon.github.io/when-reasoning-pays-off/en/)
-4. **Azure AI Search Foundry IQ Live Knowledge Sources: MCP Server와 Fabric Ontology Knowledge Source 기반 실시간 근거 추적 샘플** [Repo](https://github.com/hyeonsangjeon/azure-ai-search-foundry-iq-live-knowledge-sources)
+4. **Azure AI Search Foundry IQ Live Knowledge Sources: Microsoft 공식 샘플 자산 - MCP Server와 Fabric Ontology Knowledge Source 기반 실시간 근거 추적 샘플** [Official Repo](https://github.com/microsoft/azure-ai-search-foundry-iq-live-knowledge-sources)
 5. **Foundry IQ Demo Suite: Azure AI Search Knowledge Bases, Knowledge Sources, Semantic JOIN, Fabric IQ, SharePoint, MCP grounding을 보여주는 Knowledge Retrieval Studio** [Repo](https://github.com/hyeonsangjeon/foundry-iq-demo-suite) [App](https://foundry-iq-demo-suite.vercel.app/)
 6. **Multi-Agent Orchestration Observability: black-box multi-agent 라우팅을 추적, 로깅, 재라우팅 가능한 구조로 전환하는 Semantic Kernel/Azure OpenAI 노트북** [Repo](https://github.com/hyeonsangjeon/multi-agent-orchestration-observability)
 7. Hyeonsang Jeon & Xinyuwei, **EXAONE Multi-LoRA on Azure: Azure GPU VM에서 vLLM 기반 EXAONE 3.5 Multi-LoRA 서빙 및 성능 검증** [Repo](https://github.com/david-xinyuwei/EXAONE-Multi-LoRA-on-Azure)
